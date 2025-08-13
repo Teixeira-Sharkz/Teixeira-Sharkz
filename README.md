@@ -3,7 +3,7 @@
 💻 **Analista de Suporte Técnico** com **12 anos de experiência** em TI, especializado em:
 - 📞 PABX e Telefonia IP
 - 🌐 Redes
-- - 🛠️ Suporte ao cliente interno
+- 🛠️ Suporte ao cliente interno
 - 🖥️ Consultoria em Hardware (montagem e otimização de PCs personalizados)
 
 
